@@ -19,6 +19,8 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir ayakkabı sa
 ### Ürün Gösterimi
 ![img3](https://github.com/user-attachments/assets/e78300dd-f016-416b-a517-23f8824524b1)
 ![img4](https://github.com/user-attachments/assets/6fbd6bc8-1180-4649-ae5b-dd0cdf91623b)
+![img5](https://github.com/user-attachments/assets/61a95864-4f6f-4340-8503-99f946401cfb)
+
 
 
 ## Kullanılan Teknolojiler
